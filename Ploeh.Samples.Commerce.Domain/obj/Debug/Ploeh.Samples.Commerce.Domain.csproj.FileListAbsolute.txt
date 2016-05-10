@@ -1,0 +1,4 @@
+C:\Users\okesh\Documents\Visual Studio 2015\Projects\Ploeh.Samples\Ploeh.Samples.Commerce.Domain\bin\Debug\Ploeh.Samples.Commerce.Domain.dll
+C:\Users\okesh\Documents\Visual Studio 2015\Projects\Ploeh.Samples\Ploeh.Samples.Commerce.Domain\bin\Debug\Ploeh.Samples.Commerce.Domain.pdb
+C:\Users\okesh\Documents\Visual Studio 2015\Projects\Ploeh.Samples\Ploeh.Samples.Commerce.Domain\obj\Debug\Ploeh.Samples.Commerce.Domain.dll
+C:\Users\okesh\Documents\Visual Studio 2015\Projects\Ploeh.Samples\Ploeh.Samples.Commerce.Domain\obj\Debug\Ploeh.Samples.Commerce.Domain.pdb
